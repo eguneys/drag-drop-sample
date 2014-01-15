@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Simple DragDrop Using Backbone and Easeljs</title>
+</head>
+
+<body>
+
+  <canvas id="testcanvas" height="640" width="480"/>
+
+  <script src="/bower_components/jquery/jquery.min.js"></script>
+  <script src="/bower_components/underscore/underscore-min.js"></script>
+  <script src="/bower_components/backbone/backbone.js"></script>
+  <script src="/bower_components/easeljs/lib/easeljs-0.7.1.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,3 @@
+var CanvasView = Backbone.View.extend({
+    
+});
