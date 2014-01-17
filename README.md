@@ -361,3 +361,7 @@ For Easeljs, it was a piece of cake to build a draggable shape.
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/eguneys/drag-drop-sample/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
